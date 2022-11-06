@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "7d86261d-551c-4125-89c8-13a5df261c44": {
+      "ProjectGuid": "7d86261d-551c-4125-89c8-13a5df261c44",
+      "DisplayName": "extraniocasomult",
+      "ColorIndex": 0
+    },
+    "a0bdd9a5-200a-4c1f-ac3b-34e446f58dfc": {
+      "ProjectGuid": "a0bdd9a5-200a-4c1f-ac3b-34e446f58dfc",
+      "DisplayName": "secretobolsa",
+      "ColorIndex": 1
+    },
+    "52bf6a46-11d1-4007-97ef-8ef20d968fa0": {
+      "ProjectGuid": "52bf6a46-11d1-4007-97ef-8ef20d968fa0",
+      "DisplayName": "bombines",
+      "ColorIndex": 2
+    },
+    "1431bfc5-8c26-45b1-88db-ffca85243353": {
+      "ProjectGuid": "1431bfc5-8c26-45b1-88db-ffca85243353",
+      "DisplayName": "embarque",
+      "ColorIndex": 3
+    },
+    "3588938b-2f6a-44fd-87f4-aec40083e7ed": {
+      "ProjectGuid": "3588938b-2f6a-44fd-87f4-aec40083e7ed",
+      "DisplayName": "tandem",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

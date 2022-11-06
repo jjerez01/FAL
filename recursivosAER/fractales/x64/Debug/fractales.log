@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\juanj\source\repos\recursivosAER\fractales\Source.cpp(11,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  fractales.vcxproj -> C:\Users\juanj\source\repos\recursivosAER\x64\Debug\fractales.exe

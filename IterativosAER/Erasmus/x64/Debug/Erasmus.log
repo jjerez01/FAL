@@ -1,0 +1,3 @@
+﻿  erasmus.cpp
+C:\Users\juanj\source\repos\IterativosAER\Erasmus\erasmus.cpp(11,2): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Erasmus.vcxproj -> C:\Users\juanj\source\repos\IterativosAER\x64\Debug\Erasmus.exe

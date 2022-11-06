@@ -1,0 +1,3 @@
+﻿  tandem.cpp
+C:\Users\juanj\source\repos\Iterativos2AER\tandem\tandem.cpp(14,23): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  tandem.vcxproj -> C:\Users\juanj\source\repos\Iterativos2AER\x64\Debug\tandem.exe
