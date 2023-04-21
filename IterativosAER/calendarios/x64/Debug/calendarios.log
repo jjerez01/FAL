@@ -1,3 +1,0 @@
-﻿  calendarios.cpp
-C:\Users\juanj\source\repos\FAL\IterativosAER\calendarios\calendarios.cpp(16,34): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
-  calendarios.vcxproj -> C:\Users\juanj\source\repos\FAL\IterativosAER\x64\Debug\calendarios.exe
